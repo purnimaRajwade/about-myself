@@ -39,3 +39,9 @@ I'm at the beginning of my coding journey, so my GitHub will document my learnin
 > **Learning → Building → Improving 🚀**
 
 Thanks for visiting my profile!
+
+### 💻 Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge&logo=openjdk)
+![Git](https://img.shields.io/badge/Git-Learning-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Learning-black?style=for-the-badge&logo=github)
