@@ -20,10 +20,6 @@ and I'm now working on improving my programming and problem-solving skills.
 ![Git](https://img.shields.io/badge/Git-Learning-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Learning-black?style=for-the-badge&logo=github)
 
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purnimaRajwade&layout=donut&langs_count=6&hide_border=true)
-
 ### 🎯 My Goals
 
 - Build a strong foundation in programming
