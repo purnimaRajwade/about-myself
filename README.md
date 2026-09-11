@@ -22,7 +22,7 @@ and I'm now working on improving my programming and problem-solving skills.
 
 ### 📊 Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/purnimaRajwade&layout=donut&theme=transparent)](https://github.com/purnimaRajwade)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purnimaRajwade&layout=pie&langs_count=6)
 
 ### 🎯 My Goals
 
